@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+ 
+  background-color: transparent;
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+  
+  background: transparent;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  
+  background-color: transparent !important;
+  
+  
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+  background-size: 70px 70px;
+}
+
+
+#root {
+  background-color: transparent !important;
+}
+
+/* Custom Selection Color */
+::selection {
+  background-color: rgba(59, 130, 246, 0.3);
+  color: white;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6;
+}

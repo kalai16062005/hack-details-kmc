@@ -1,0 +1,45 @@
+{
+  "teams": {
+    "elite": [
+      {
+        "name": "KCET Tech-Titans",
+        "lead": "Arun Kumar M",
+        "member": "Sanjay R & Priya D",
+        "college": "Kamaraj College (KCET)",
+        "points": 88450,
+        "rank": 2,
+        "order": "order-2 md:order-1",
+        "featured": false
+      },
+      {
+        "name": "Cyber Sentinels",
+        "lead": "Rajesh S",
+        "member": "Kavin M & Abishek V",
+        "college": "Kamaraj College (KCET)",
+        "points": 92100,
+        "rank": 1,
+        "order": "order-1 md:order-2",
+        "featured": true
+      },
+      {
+        "name": "Code Cruisers",
+        "lead": "Kavitha P",
+        "member": "Sneha G & Meera J",
+        "college": "Kamaraj College (KCET)",
+        "points": 84300,
+        "rank": 3,
+        "order": "order-3 md:order-3",
+        "featured": false
+      }
+    ],
+    "leaderboard": [
+      { "name": "The Logic Loopers", "lead": "GURU DHARSHINI M", "points": 75582, "college": "Kamaraj College (KCET)" },
+      { "name": "BLOCK BUSTERS", "lead": "C. Shanmathy", "points": 72505, "college": "Kamaraj College (KCET)" },
+      { "name": "DATANYX", "lead": "DEEPIKAA K S", "points": 54881, "college": "Kamaraj College (KCET)" },
+      { "name": "Infinity-V", "lead": "Srilekha K S", "points": 50434, "college": "Kamaraj College (KCET)" },
+      { "name": "AK07", "lead": "Arockia Antrina A", "points": 39140, "college": "Kamaraj College (KCET)" },
+      { "name": "Code Ninjas", "lead": "RAMYA P", "points": 31018, "college": "Kamaraj College (KCET)" },
+      { "name": "Loopers", "lead": "S. Priyanka", "points": 20690, "college": "Kamaraj College (KCET)" }
+    ]
+  }
+}
